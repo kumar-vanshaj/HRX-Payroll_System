@@ -1,5 +1,5 @@
 
-# HRMS + Payroll + CRM Platform (Capstone Project)
+# HRX Payroll Platform (Capstone Project)
 
 A full-stack Human Resource Management and Payroll System with integrated CRM and Resume Intelligence modules.
 Built as a capstone project to demonstrate backend architecture, database design, API development, and modern frontend UI.

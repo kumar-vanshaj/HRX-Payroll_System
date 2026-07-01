@@ -5,7 +5,6 @@ A full-stack Human Resource Management and Payroll System with integrated CRM an
 Built as a capstone project to demonstrate backend architecture, database design, API development, and modern frontend UI.
 
 The system manages employees, payroll processing, client leads, and resume analysis in a single platform.
-
 #  Tech Stack
 ## Backend
 * Node.js
@@ -86,5 +85,5 @@ The system manages employees, payroll processing, client leads, and resume analy
 6. Upload resume → view skills + score
 7. Download reports CSV
 
-By
+
 Kumar Vanshaj

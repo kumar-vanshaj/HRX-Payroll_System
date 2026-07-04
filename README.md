@@ -3,7 +3,6 @@
 
 A full-stack Human Resource Management and Payroll System with integrated CRM and Resume Intelligence modules.
 Built as a capstone project to demonstrate backend architecture, database design, API development, and modern frontend UI.
-
 The system manages employees, payroll processing, client leads, and resume analysis in a single platform.
 #  Tech Stack
 ## Backend
@@ -19,7 +18,7 @@ The system manages employees, payroll processing, client leads, and resume analy
 * React (Vite)
 * React Router
 * Axios
-* Custom CSS (no UI framework)
+* Custom CSS
 
 ## Database
 * MySQL (normalized relational schema)

@@ -11,7 +11,7 @@ The system manages employees, payroll processing, client leads, and resume analy
 * MySQL
 * JWT Authentication
 * Multer 
-* PDF/TXT resume parsing
+* PDF/word resume parsing
 * REST APIs
 
 ## Frontend

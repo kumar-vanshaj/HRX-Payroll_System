@@ -1,5 +1,5 @@
 
-# HRX Payroll Platform 
+# HRX Payroll nanagement Platform 
 
 A full-stack Human Resource Management and Payroll System with integrated CRM and Resume Intelligence modules.
 Built as a capstone project to demonstrate backend architecture, database design, API development, and modern frontend UI.
